@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ModelResources>
+	<Resource>
+		<Id>1776260395871</Id>
+		<Path>3d/forklift.dae</Path>
+		<ReferencedFromUserCode>false</ReferencedFromUserCode>
+		<Location>FILE_SYSTEM</Location>
+	</Resource>
+	<Resource>
+		<Id>1776260395879</Id>
+		<Path>3d/sittingworker.dae</Path>
+		<ReferencedFromUserCode>false</ReferencedFromUserCode>
+		<Location>FILE_SYSTEM</Location>
+	</Resource>
+</ModelResources>

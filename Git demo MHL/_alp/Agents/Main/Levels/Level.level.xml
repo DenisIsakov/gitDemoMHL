@@ -129,7 +129,7 @@
 		<BaysDefinition>NUMBER_OF_BAYS</BaysDefinition>
 		<NumberOfBays>5</NumberOfBays>
 		<NumberOfCells>1</NumberOfCells>
-		<NumberOfShelves>1</NumberOfShelves>
+		<NumberOfShelves>10</NumberOfShelves>
 		<RackType>SELECTIVE</RackType>
 		<SkuFlow>LIFO</SkuFlow>
 		<Configuration>BACK_TO_BACK</Configuration>
