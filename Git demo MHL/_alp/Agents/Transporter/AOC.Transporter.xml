@@ -18,12 +18,7 @@
 	<MakeDefaultViewArea>true</MakeDefaultViewArea>
 	<SceneGridColor/>
 	<SceneBackgroundColor>-4144960</SceneBackgroundColor>
-	<EnvironmentResourceRef/>
-	<EnvironmentType>NONE</EnvironmentType>
-	<EnvironmentRotationX>0</EnvironmentRotationX>
-	<EnvironmentRotationY>0</EnvironmentRotationY>
-	<EnvironmentRotationZ>0</EnvironmentRotationZ>
-	<EnvironmentIntensity>1</EnvironmentIntensity>
+	<SceneSkybox>null</SceneSkybox>
 	<AgentProperties>
 		<EnvironmentDefinesInitialLocation>true</EnvironmentDefinesInitialLocation>
 		<RotateAnimationTowardsMovement>true</RotateAnimationTowardsMovement>

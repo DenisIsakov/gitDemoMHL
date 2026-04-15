@@ -55,7 +55,6 @@
 				<Scale>1.0</Scale>
 				<Rotation>0.0</Rotation>
 				<AxisOrder>YZX_AXIS_ORDER</AxisOrder>
-				<SelectedAnimationPose/>
 				<ApplyShading>true</ApplyShading>
 				<InternalLighting>OFF</InternalLighting>
 				<IgnoreSceneLights>false</IgnoreSceneLights>
@@ -123,7 +122,6 @@
 				<Scale>1.0</Scale>
 				<Rotation>0.0</Rotation>
 				<AxisOrder>YZX_AXIS_ORDER</AxisOrder>
-				<SelectedAnimationPose/>
 				<ApplyShading>true</ApplyShading>
 				<InternalLighting>OFF</InternalLighting>
 				<IgnoreSceneLights>false</IgnoreSceneLights>

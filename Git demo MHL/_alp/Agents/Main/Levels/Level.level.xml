@@ -101,7 +101,7 @@
 			<Unit Class="LengthUnits">METER</Unit>
 		</LeftPassage>
 		<AisleWidth Class="UnitValue">
-			<Value Class="Double">1</Value>
+			<Value Class="Double">3</Value>
 			<Unit Class="LengthUnits">METER</Unit>
 		</AisleWidth>
 		<SlotDepth Class="UnitValue">
@@ -109,7 +109,7 @@
 			<Unit Class="LengthUnits">METER</Unit>
 		</SlotDepth>
 		<CellWidth Class="UnitValue">
-			<Value Class="Double">3.2</Value>
+			<Value Class="Double">4</Value>
 			<Unit Class="LengthUnits">METER</Unit>
 		</CellWidth>
 		<ShelfHeight Class="UnitValue">
@@ -127,12 +127,12 @@
 		<UnitsDefinition>NUMBER_OF_UNITS</UnitsDefinition>
 		<NumberOfUnits>4</NumberOfUnits>
 		<BaysDefinition>NUMBER_OF_BAYS</BaysDefinition>
-		<NumberOfBays>5</NumberOfBays>
+		<NumberOfBays>4</NumberOfBays>
 		<NumberOfCells>1</NumberOfCells>
 		<NumberOfShelves>10</NumberOfShelves>
 		<RackType>SELECTIVE</RackType>
 		<SkuFlow>LIFO</SkuFlow>
-		<Configuration>SINGLE_BAY</Configuration>
+		<Configuration>BACK_TO_BACK</Configuration>
 		<DrawLegs>true</DrawLegs>
 		<CellsBetweenLegs>2</CellsBetweenLegs>
 		<SimplifiedAnimation>true</SimplifiedAnimation>
